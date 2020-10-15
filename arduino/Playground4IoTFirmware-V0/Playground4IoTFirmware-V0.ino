@@ -166,7 +166,6 @@ float Zacc;
 WiFiClientSecure net = WiFiClientSecure();
 MQTTClient client = MQTTClient(512);
 
-#define SECRET
 #define THINGNAME "play1"
 
 
